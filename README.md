@@ -39,9 +39,50 @@ A continuación pueden verse los programas propuestos por CodigoIoT funcionando
 
 **Variables**
 
-![Cargando]()
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/variables/variables.png?raw=true)
 
-![Cargando]()
+**Operadores**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/operadores/operadores.png?raw=true)
+
+**Estructura de control if-else**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/estructuras-control/if-else.png?raw=true)
+
+**Estructura de control if-elif-else**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/estructuras-control/if-elif-else.png?raw=true)
+
+**Estructuras añidadas**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/estructuras-a%C3%B1idadas/estructuras-a%C3%B1idadas.png?raw=true)
+
+**Iteración while**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/iteraciones/iteraciones.png?raw=true)
+
+**Iteración for**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/iteraciones/ciclo-for.png?raw=true)
+
+**Bucle añadido**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/iteraciones/bucle%20a%C3%B1idado.png?raw=true)
+
+**Funciones con parámetros**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/funciones/funciones%20con%20parametros.png?raw=true)
+
+**Regreso de valores**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/regreso-valores/regreso%20valores.png?raw=true)
+
+**Regresión polinomio de segundo grado**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/regresi%C3%B3n/regresion1.png?raw=true)
+
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/regresi%C3%B3n/regresion1.1.png?raw=true)
+
+**Regresión polinomio con predicción incorrecta**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/regresi%C3%B3n/regresion2.png?raw=true)
+
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/regresi%C3%B3n/regresion2.1.png?raw=true)
+
+**Regresión polinomio con predicción de manera correcta e incorrecta**
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/regresi%C3%B3n/regresion3.png?raw=true)
+
+![Cargando](https://github.com/DanielRochez/Primer-ejercicio-python/blob/main/regresi%C3%B3n/regresion3.1.png?raw=true)
+
 
 # Créditos
 Desarrollado por Daniel Rochez
